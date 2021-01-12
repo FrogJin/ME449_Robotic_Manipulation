@@ -1,0 +1,6 @@
+>> ./runscript.sh 
+Generating cartesian trajectory.
+Generating animation csv files.
+Writing error plot data
+Done
+>>
